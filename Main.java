@@ -4,5 +4,7 @@
 
 public class Main {
 
+    Feature f = new Feature();
+
 }
 
