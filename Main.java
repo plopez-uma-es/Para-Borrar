@@ -5,6 +5,7 @@
 public class Main {
 
     Feature f = new Feature();
-
+    // esto lo hago en feature
+    System.err.print("error:" + f);
 }
 
