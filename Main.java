@@ -6,5 +6,8 @@ public class Main {
 
     Feature f = new Feature();
     System.out.printl(f);
+    
+    // Esto ha cambiado en el remoto. Simulo que un colaborador ha modificado Main.java
+    
 }
 
